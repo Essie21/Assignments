@@ -5,7 +5,7 @@ const rl = readline.createInterface({
 });
 
 // Task Array
-let tasks = ["complete assignment", "do laundary", "do dishes"];
+let tasks = [];
 
 // Function to add a new task
 
